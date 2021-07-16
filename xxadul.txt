@@ -1,0 +1,486 @@
+
+#EXTM3U
+#EXTINF:-1,Aeroporto: Área Restrita
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/800
+#EXTINF:-1,A&E
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/480
+#EXTINF:-1,aline barro
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/846
+#EXTINF:-1,AMC
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/520
+#EXTINF:-1,ANIMAL PLANET
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/415
+#EXTINF:-1,a praça e nossa
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/845
+#EXTINF:-1,As Visões da Raven
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/847
+#EXTINF:-1,ARTE 1
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/481
+#EXTINF:-1,AXN
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/482
+#EXTINF:-1,BABY TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/417
+#EXTINF:-1,BAND BAHIA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/521
+#EXTINF:-1,BAND CAMPINAS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/831
+#EXTINF:-1,BAND RJ HD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/832
+#EXTINF:-1,BAND NEWS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/483
+#EXTINF:-1,BAND SPORTS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/485
+#EXTINF:-1,BIS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/418
+#EXTINF:-1,BOOMERANG
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/419
+#EXTINF:-1,Caça Talentos
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/848
+#EXTINF:-1,CANCAO NOVA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/811
+#EXTINF:-1,CANAL DO BOI 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/812
+#EXTINF:-1,CANAL BRASIL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/522
+#EXTINF:-1,Carga Pesada
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/837
+#EXTINF:-1,CARTOON NETWORK
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/420
+#EXTINF:-1,CHEF TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/654
+#EXTINF:-1, Chalie Brown
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/813
+#EXTINF:-1,CINE MARVEL VS DC
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/785
+#EXTINF:-1,CINE COMEDIA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/784
+#EXTINF:-1,CINE TERROR
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/782
+#EXTINF:-1,CINE JASON STATHAM
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/780
+#EXTINF:-1,CINE Steven Seagal
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/807
+#EXTINF:-1,CINE Stallone
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/783
+#EXTINF:-1,CINE 01
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/510
+#EXTINF:-1,CINE 02
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/626
+#EXTINF:-1,CINE 04
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/628
+#EXTINF:-1,CINE 05
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/629
+#EXTINF:-1,CINE 06
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/630
+#EXTINF:-1,CINE 07
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/631
+#EXTINF:-1,CINE 08
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/632
+#EXTINF:-1,CINE 09
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/633
+#EXTINF:-1,CINE 10
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/634
+#EXTINF:-1,CINEMAX
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/487
+#EXTINF:-1,CINESKY 01
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/635
+#EXTINF:-1,CINESKY 02
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/636
+#EXTINF:-1,CINESKY 03
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/637
+#EXTINF:-1,CINESKY 04
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/638
+#EXTINF:-1,CINESKY 06
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/571
+#EXTINF:-1,CINESKY 10
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/756
+#EXTINF:-1,CNN BRASIL 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/747
+#EXTINF:-1,Chaves
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/838
+#EXTINF:-1,Clipes Gospel
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/817
+#EXTINF:-1,CNNE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/769
+#EXTINF:-1,COMBATE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/421
+#EXTINF:-1,COMEDY CENTRAL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/422
+#EXTINF:-1,CONMEBOL 1
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/795
+#EXTINF:-1,CONMEBOL2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/796
+#EXTINF:-1,CURTA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/489
+#EXTINF:-1,DAZN
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/765
+#EXTINF:-1,De Ferias Com o Ex Brasil
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/836
+#EXTINF:-1,Desenhos biblicos
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/777
+#EXTINF:-1,DISCOVERY CHANNEL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/424
+#EXTINF:-1,DISCOVERY HOME&HEALTH
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/425
+#EXTINF:-1,DISCOVERY ID
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/426
+#EXTINF:-1,DISCOVERY KIDS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/427
+#EXTINF:-1,DISCOVERY SCIENCE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/428
+#EXTINF:-1,DISCOVERY THEATER
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/429
+#EXTINF:-1,DISCOVERY TURBO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/430
+#EXTINF:-1,DISCOVERY WORLD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/431
+#EXTINF:-1,DiscoveryCivilization
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/602
+#EXTINF:-1,DISNEY CHANNEL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/432
+#EXTINF:-1,DISNEY JR
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/433
+#EXTINF:-1,DISNEY XD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/434
+#EXTINF:-1,E
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/764
+#EXTINF:-1,ESPN
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/435
+#EXTINF:-1,ESPN 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/436
+#EXTINF:-1,ESPN BRASIL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/437
+#EXTINF:-1,ESPN EXTRA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/490
+#EXTINF:-1,Família Dinossauro
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/839
+#EXTINF:-1,FILME&ARTES
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/588
+#EXTINF:-1,FISH TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/491
+#EXTINF:-1,FOOD NETWORK
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/438
+#EXTINF:-1,FOX
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/477
+#EXTINF:-1,FOX LIFE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/492
+#EXTINF:-1,FOX NEWS FHD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/607
+#EXTINF:-1,FOX PREMIUM 1
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/439
+#EXTINF:-1,FOX PREMIUM 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/440
+#EXTINF:-1,FOX SPORTS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/442
+#EXTINF:-1,FOX SPORTS 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/441
+#EXTINF:-1,FX
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/592
+#EXTINF:-1,Galinha Pintadinha
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/801
+#EXTINF:-1,GLOOBINHO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/519
+#EXTINF:-1,GLOBO  BAHIA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/538
+#EXTINF:-1,GLOBO BRASILIA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/536
+#EXTINF:-1,GLOBO MINAS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/759
+#EXTINF:-1,Globo Nordeste
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/537
+#EXTINF:-1,Globo Rj
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/758
+#EXTINF:-1,GLOBO NEWS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/525
+#EXTINF:-1,GLOBOSAT HD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/472
+#EXTINF:-1,GLOOB
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/443
+#EXTINF:-1,GNT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/444
+#EXTINF:-1,GOSPEL MOVIE TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/815
+#EXTINF:-1,Histórias da Bíblia
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/820
+#EXTINF:-1,HBO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/449
+#EXTINF:-1,HBO 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/446
+#EXTINF:-1,HBO FAMILY
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/595
+#EXTINF:-1,HBO MUNDI
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/494
+#EXTINF:-1,HBO PLUS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/447
+#EXTINF:-1,HBO POP 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/495
+#EXTINF:-1,HBO SIGNATURE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/448
+#EXTINF:-1,HBO XTREME
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/496
+#EXTINF:-1,HISTORY
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/450
+#EXTINF:-1,HISTORY 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/445
+#EXTINF:-1,Império Selvagem
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/804
+#EXTINF:-1,LIFETIME
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/499
+#EXTINF:-1,Mazzaropi
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/818
+#EXTINF:-1,Meu Corpo Meu Desafio
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/808
+#EXTINF:-1,MEGAPIX 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/451
+#EXTINF:-1,MTV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/500
+#EXTINF:-1,MTV LIVE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/760
+#EXTINF:-1,MUNDO BITA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/843
+#EXTINF:-1,MULTISHOW
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/573
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/501
+#EXTINF:-1,NAT GEO 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/580
+#EXTINF:-1,NAT GEO KIDS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/502
+#EXTINF:-1,NAT GEO WILD
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/582
+#EXTINF:-1,NETFLIX
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/802
+#EXTINF:-1,NICKELODEON
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/454
+#EXTINF:-1,NICK JR
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/453
+#EXTINF:-1,Os Normais
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/841
+#EXTINF:-1,Os Trapalhões
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/819
+#EXTINF:-1,O SOCIO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/751
+#EXTINF:-1,OFF
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/505
+#EXTINF:-1,PARAMOUNT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/506
+#EXTINF:-1,PLAY KIDS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/507
+#EXTINF:-1,Patrulha.Canina
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/842
+#EXTINF:-1,PLAY TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/614
+#EXTINF:-1,POWER COUPLE BRASIL 5
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/805
+#EXTINF:-1,Policia 24h
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/806
+#EXTINF:-1,PREMIERE 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/455
+#EXTINF:-1,PREMIERE 3
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/456
+#EXTINF:-1,PREMIERE 4
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/457
+#EXTINF:-1,PREMIERE 5
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/458
+#EXTINF:-1,PREMIERE 6
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/508
+#EXTINF:-1,PREMIERE 7
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/530
+#EXTINF:-1,PREMIERE 8
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/821
+#EXTINF:-1,PREMIERE CLUBES
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/459
+#EXTINF:-1,PRIME BOX BRASIL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/591
+#EXTINF:-1,RECORD SP
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/617
+#EXTINF:-1,RECORD TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/823
+#EXTINF:-1,RECORD BRASILIA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/824
+#EXTINF:-1,RECORD RJ
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/825
+#EXTINF:-1,RECORD NEWS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/589
+#EXTINF:-1,REDE TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/509
+#EXTINF:-1,Sai de Baixo
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/822
+#EXTINF:-1,SBT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/511
+#EXTINF:-1,SBT SP
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/826
+#EXTINF:-1,Shark Tank Brasil
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/810
+#EXTINF:-1,SONY
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/486
+#EXTINF:-1,Show de piadas
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/840
+#EXTINF:-1,SPACE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/460
+#EXTINF:-1,SPORT TV 1
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/827
+#EXTINF:-1,SPORT TV 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/461
+#EXTINF:-1,SPORT TV 3 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/462
+#EXTINF:-1,SPORT TV 4
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/828
+#EXTINF:-1,SPORT TV 5 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/829
+#EXTINF:-1,SPORT TV
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/463
+#EXTINF:-1,STUDIO UNIVERSAL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/512
+#EXTINF:-1,SYFy
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/513
+#EXTINF:-1,TBS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/514
+#EXTINF:-1, TCM 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/619
+#EXTINF:-1,Turma do Cristãozinho
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/781
+#EXTINF:-1,3 palavrinhas
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/844
+#EXTINF:-1,TELECINE ACTION
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/464
+#EXTINF:-1,TELECINE CULT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/465
+#EXTINF:-1,TELECINE FUN 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/515
+#EXTINF:-1,TELECINE PIPOCA
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/466
+#EXTINF:-1,TELECINE PREMIUM
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/467
+#EXTINF:-1,TELECINE TOUCH 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/468
+#EXTINF:-1,TLC
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/516
+#EXTINF:-1,TNT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/469
+#EXTINF:-1,TNT SERIES
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/517
+#EXTINF:-1,TOONCAST
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/470
+#EXTINF:-1,TRUE TV 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/620
+#EXTINF:-1,TV ARATU 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/471
+#EXTINF:-1,TVDIARIO 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/766
+#EXTINF:-1,TV EVANGELIZAR
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/814
+#EXTINF:-1,TV NOVO TEMPO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/753
+#EXTINF:-1,UNIVERSAL TV 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/474
+#EXTINF:-1,VH1 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/744
+#EXTINF:-1,VIVA 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/745
+#EXTINF:-1,WARNER CHANNEL
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/476
+#EXTINF:-1,WOOHOO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/534
+#EXTINF:-1,ZOOMOO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/535
+#EXTINF:-1,BRAZZERS EUROPE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/833
+#EXTINF:-1,BRASILEIRINHAS
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/748
+#EXTINF:-1,CINE PRIVE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/799
+#EXTINF:-1,Indias Safadas
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/834
+#EXTINF:-1,BRASILEIRINHAS 5 VEZES MAIS SEXO
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/835
+#EXTINF:-1,PURO PRAZER 2
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/798
+#EXTINF:-1,PLAYBOY 
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/613
+#EXTINF:-1,Pintando o Sexo
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/849
+#EXTINF:-1,SEX HOT
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/547
+#EXTINF:-1,SEX PRIVE
+http://45.235.3.130:25461/gustavoprovedor4powertec/zxcvb/548
+#EXTM3U
+#EXTINF:-1,PLAYBOY
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4663
+#EXTINF:-1,PLAYBOY HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4664
+#EXTINF:-1,SEXTREME
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4666
+#EXTINF:-1,SEXTREME HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4667
+#EXTINF:-1,SEXY HOT
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4669
+#EXTINF:-1,SEXY HOT HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4670
+#EXTINF:-1,SEXYHOT HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4671
+#EXTINF:-1,SEXYHOT
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4672
+#EXTINF:-1,VENUS
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4673
+#EXTINF:-1,VENUS HD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4674
+#EXTINF:-1,PLAYBOY FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6666
+#EXTINF:-1,SEXY HOT FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6667
+#EXTINF:-1,Venus FHD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6668
+#EXTINF:-1,SEXTREME HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6841
+#EXTINF:-1,VENUS HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6843
+#EXTINF:-1,Sexy Hot  HD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6846
+#EXTINF:-1,SEXYHOT SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6847
+#EXTINF:-1,playboy sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6845
+#EXTINF:-1,venus sd¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6844
+#EXTINF:-1,SEXTREME SD¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6842
+#EXTINF:-1,SEXTREME SD*
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4668
+#EXTINF:-1,PLAYBOY SD*
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/4665
+#EXTINF:-1,PORNO 4K¹
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/6647
+#EXTINF:-1,BRASILEIRINHAS CLÁSSICAS
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17386
+#EXTINF:-1,CINE ADULTO AMADOR
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/17387
+#EXTINF:-1,HUSTLER FHD
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25369
+#EXTINF:-1,24H TRANSEXUAL
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25370
+#EXTINF:-1,24H SURUBA CASEIRA
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25371
+#EXTINF:-1,24H RUIVAS
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25372
+#EXTINF:-1,24H Sexo Na Praia
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25373
+#EXTINF:-1,24H INTER RACIAL
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25374
+#EXTINF:-1,24H GORDAS
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25375
+#EXTINF:-1,24H Cine Adulto
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25376
+#EXTINF:-1,24H A Casa das Brasileirinhas
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25377
+#EXTINF:-1,24H Bisexual
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25378
+#EXTINF:-1,24H Amador Gay
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25379
+#EXTINF:-1,24H Amadoras
+http://dns.7wtv.online:80/25twrw5n3j/t2z06aq7sd/25380
+
+
+
+
+https://raw.githubusercontent.com/rogerio957/com/main/completo.txt
